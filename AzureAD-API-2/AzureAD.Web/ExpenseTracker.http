@@ -1,0 +1,6 @@
+@AzureAD_HostAddress = http://localhost:5110
+
+GET {{AzureAD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
